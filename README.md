@@ -1,5 +1,5 @@
 # actividadGrupal
-First grupal activity test
+First grupal activity test, using GIT/Bash in GITHub.
 
 Integrantes:
 - Ignacio Sigal
